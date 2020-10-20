@@ -1,0 +1,4 @@
+C:\Users\kamiya\Documents\Visual Studio 2010\Projects\RentalDVD\RentalDVD\bin\RentalDVD.dll
+C:\Users\kamiya\Documents\Visual Studio 2010\Projects\RentalDVD\RentalDVD\bin\RentalDVD.pdb
+C:\Users\kamiya\Documents\Visual Studio 2010\Projects\RentalDVD\RentalDVD\obj\Debug\RentalDVD.dll
+C:\Users\kamiya\Documents\Visual Studio 2010\Projects\RentalDVD\RentalDVD\obj\Debug\RentalDVD.pdb
